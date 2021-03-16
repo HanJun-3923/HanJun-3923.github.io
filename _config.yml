@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "이한준"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "대단한 학생"
+  bio              : "Study for Python"
   location         : "대한민국, 용인"
   email            : "gkswns0326@naver.com"
   links:
@@ -114,7 +114,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/HanJun-3923"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
