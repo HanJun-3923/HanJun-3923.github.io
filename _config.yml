@@ -97,7 +97,7 @@ author:
   name             : "이한준"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Study for Python"
-  location         : ""
+  location         : "태성고등학교"
   email            : "gkswns0326@naver.com"
   links:
     - label: "Email"
